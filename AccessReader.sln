@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessReader.Cli", "AccessReader.Cli\AccessReader.Cli.csproj", "{9C387105-12C1-44C5-8CD7-D893F24ABC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessReader.Lib", "AccessReader.Lib\AccessReader.Lib.csproj", "{9A0A7E45-6225-4903-BB47-B8C97C0CFAE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C387105-12C1-44C5-8CD7-D893F24ABC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C387105-12C1-44C5-8CD7-D893F24ABC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C387105-12C1-44C5-8CD7-D893F24ABC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C387105-12C1-44C5-8CD7-D893F24ABC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0A7E45-6225-4903-BB47-B8C97C0CFAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0A7E45-6225-4903-BB47-B8C97C0CFAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0A7E45-6225-4903-BB47-B8C97C0CFAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0A7E45-6225-4903-BB47-B8C97C0CFAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
